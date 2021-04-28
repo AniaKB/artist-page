@@ -1,0 +1,21 @@
+* {
+    font-family: 'Noto Serif', serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#navbar {
+  background-color: #333 !important;
+  overflow: hidden;
+  text-align:center;
+  color: white;
+  margin: 30px;
+}
+
+nav, a {
+ color: white;
+ margin: 8px;
+ font-family: 'Noto Serif', serif;
+}
